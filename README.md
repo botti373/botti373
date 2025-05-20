@@ -1,20 +1,53 @@
-## Olá 👋
+<div align="center">
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3dkajNzYzdrNjNlYm1zcXBydXJpOWRlN2xrOHk1bzdsYjE1dzEzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tz30dcgKE3GCTYpxol/giphy.gif"  />
+</div>
 
-Sou Henrique Botti, estudante de Engenharia de Software no Inteli, focado em desenvolvimento back-end.  
+###
 
-🔭 Atualmente desenvolvendo o **SmartAdvisor**: sistema de recomendação de investimentos com .NET e ML .NET, PostgreSQL.
+<h1 align="center">Olá</h1>
 
-🌱 Aprimorando conhecimento em mensageria, cache, design patterns e algoritmos de recomendação. 
+###
 
-👯 Busco colaborar em projetos que envolvam dados, APIs robustas e impacto real no usuário.
+<h3 align="left">Sobre mim</h3>
 
+###
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=botti373&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=botti373&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=botti373&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<p align="left">Eu me chamo Henrique Botti, estudante de engenharia de software no Inteli. <br><br>- 🔭 Atualmente desenvolvendo o SmartAdvisor: sistema de recomendação de investimentos com .NET e ML .NET, PostgreSQL.<br><br>- 📚 Atualmente estou estudando: cache, design patterns e algoritmos de recomendação.<br><br>- ⚡ No meu tempo livre gosto de identificar padrões com dados e aprender sobre machine learning</p>
+
+###
+
+<h3 align="left">🛠 Linguagens utilizadas</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=botti373&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=botti373&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
