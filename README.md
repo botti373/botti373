@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Eu me chamo Henrique Botti, estudante de engenharia de software no Inteli. <br><br>- 🔭 Atualmente desenvolvendo o SmartAdvisor: sistema de recomendação de investimentos com .NET e ML .NET, PostgreSQL.<br><br>- 📚 Atualmente estou estudando: cache, design patterns e algoritmos de recomendação.<br><br>- ⚡ No meu tempo livre gosto de identificar padrões com dados e aprender sobre machine learning</p>
+<p align="left">Eu me chamo Henrique Botti, estudante de engenharia de software do segundo ano no Inteli. <br><br>- 🔭 Atualmente desenvolvendo o SmartAdvisor: sistema de recomendação de investimentos com .NET e ML .NET, PostgreSQL.<br><br>- 📚 Atualmente estou estudando: cache, design patterns e algoritmos de recomendação.<br><br>- ⚡ No meu tempo livre gosto de identificar padrões com dados e aprender sobre machine learning</p>
 
 ###
 
@@ -36,9 +36,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=botti373&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=botti373&theme=dark&hide_border=false)<br/>
-username=botti373&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
