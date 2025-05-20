@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Sou Henrique Botti, estudante de Engenharia de Software no Inteli, focado em aprender back-end e tópicos de machine learning, 
+Sou Henrique Botti, estudante de Engenharia de Software no Inteli, focado em desenvolvimento back-end.  
 
 🔭 Atualmente desenvolvendo o **SmartAdvisor**: sistema de recomendação de investimentos com .NET e ML .NET, PostgreSQL.
 
