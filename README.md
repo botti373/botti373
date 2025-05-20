@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Eu me chamo Henrique Botti, estudante de engenharia de software no Inteli. <br><br>- 🔭 Atualmente desenvolvendo o SmartAdvisor: sistema de recomendação de investimentos com .NET e ML .NET, PostgreSQL.<br><br>- 📚 Atualmente estou estudando: cache, design patterns e algoritmos de recomendação.<br><br>- ⚡ No meu tempo livre gosto de identificar padrões com dados e aprender sobre machine learning</p>
+<p align="left">Eu me chamo Henrique Botti, estudante de engenharia de software do segundo ano no Inteli. <br><br>- 🔭 Atualmente desenvolvendo o SmartAdvisor: sistema de recomendação de investimentos com .NET e ML .NET, PostgreSQL.<br><br>- 📚 Atualmente estou estudando: cache, design patterns e algoritmos de recomendação.<br><br>- ⚡ No meu tempo livre gosto de identificar padrões com dados e aprender sobre machine learning</p>
 
 ###
 
@@ -44,7 +44,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=botti373&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=botti373&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=botti373&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 ###
