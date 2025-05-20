@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Eu me chamo Henrique Botti, estudante de engenharia de software do segundo ano no Inteli. <br><br>- 🔭 Atualmente desenvolvendo o SmartAdvisor: sistema de recomendação de investimentos com .NET e ML .NET, PostgreSQL.<br><br>- 📚 Atualmente estou estudando: cache, design patterns e algoritmos de recomendação.<br><br>- ⚡ No meu tempo livre gosto de identificar padrões com dados e aprender sobre machine learning</p>
+<p align="left">Eu me chamo Henrique Botti, estudante de engenharia de software do segundo ano no Inteli. Focado em desenvolvimento back-end. <br><br>- 🔭 Atualmente desenvolvendo o SmartAdvisor: sistema de recomendação de investimentos com .NET e ML .NET, PostgreSQL.<br><br>- 📚 Atualmente estou estudando: cache, design patterns e algoritmos de recomendação.<br><br>- ⚡ No meu tempo livre gosto de identificar padrões com dados e aprender sobre machine learning</p>
 
 ###
 
