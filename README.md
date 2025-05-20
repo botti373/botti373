@@ -1,4 +1,13 @@
-## Hi there 👋
+## Olá 👋
+
+Sou Henrique Botti, estudante de Engenharia de Software no Inteli, focado em aprender back-end e tópicos de machine learning, 
+
+🔭 Atualmente desenvolvendo o **SmartAdvisor**: sistema de recomendação de investimentos com .NET e ML .NET, PostgreSQL.
+
+🌱 Aprimorando conhecimento em mensageria, cache, design patterns e algoritmos de recomendação. 
+
+👯 Busco colaborar em projetos que envolvam dados, APIs robustas e impacto real no usuário.
+
 
 <!--
 **botti373/botti373** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
